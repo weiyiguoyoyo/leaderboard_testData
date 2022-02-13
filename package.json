@@ -1,0 +1,22 @@
+{
+  "name": "leaderboard_testdata",
+  "version": "1.0.0",
+  "description": "Leaderboard Test Data (Username, profit, marketshare)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiyiguoyoyo/leaderboard_testData.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weiyiguoyoyo/leaderboard_testData/issues"
+  },
+  "homepage": "https://github.com/weiyiguoyoyo/leaderboard_testData#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
