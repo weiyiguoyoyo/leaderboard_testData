@@ -1,0 +1,53 @@
+{
+    "leaderboard_Data": [
+        {
+            "id": 1,
+            "name":"Jason",
+            "profit":5000,
+            "market_share":27
+        },
+        {
+            "id": 2,
+            "name":"Leanne",
+            "profit":4500,
+            "market_share":24
+        },
+        {
+            "id": 3,
+            "name":"Ervin",
+            "profit":360,
+            "market_share":3
+        },
+        {
+            "id": 4,
+            "name":"Clementine",
+            "profit":1960,
+            "market_share":10
+        },
+        {
+            "id": 5,
+            "name":"Patrick",
+            "profit":4652,
+            "market_share":25
+        },
+        {
+            "id": 6,
+            "name":"Robbert",
+            "profit":6130,
+            "market_share":30
+        },
+        {
+            "id": 7,
+            "name":"Nicol",
+            "profit":3350,
+            "market_share":18
+        },
+        {
+            "id": 8,
+            "name":"End",
+            "profit":3000,
+            "market_share":15
+        }
+    ]
+}
+    
